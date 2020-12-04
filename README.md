@@ -1,4 +1,4 @@
-# Monte_Carlo_Localisation MCL
+# Monte_Carlo_Localisation (MCL)
 
 The MCL algorithm was exploited using a mobile robot. The theoritical reference about the concept can be obtained from the following:
 

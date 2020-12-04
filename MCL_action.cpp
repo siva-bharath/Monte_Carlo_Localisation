@@ -1,4 +1,3 @@
-//Compile with: g++ solution.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
 #include "src/matplotlibcpp.h" //Graph Library
 #include <iostream>
 #include <string>

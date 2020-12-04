@@ -4,7 +4,7 @@ The MCL algorithm was exploited using a mobile robot. The theoritical reference 
 
 References : " Probabilistic Robotics" by Wolfram Burgard, Sebastian Thrun, Dieter Fox
 
-Scenario : In this task , a mobile robot represented with a blue color circle occupies the space in a 2D map of size 100 by 100.The robot has the ability to manoeuvre in x , y & theta respectively. The range finder sensors present in the robot can measure the robot distance from its landmarks. Each landmark was represnted with the red color. 
+Scenario : In this task , a mobile robot represented with a blue color circle occupies the space in a 2D map of size 100 by 100.The robot has the ability to manoeuvre in x , y & theta respectively. The range finder sensors present in the robot can measure the robot distance from its landmarks. Each landmark was represented with the red color. 
 
 The following would be the break of the MCL approach :
 
